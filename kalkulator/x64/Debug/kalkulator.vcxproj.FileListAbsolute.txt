@@ -1,0 +1,5 @@
+C:\Users\wikto\OneDrive\Pulpit\uczymy sie programowania\kalkulator\kalkulator\x64\Debug\kalkulator.vcxproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Pulpit\uczymy sie programowania\kalkulator\kalkulator\x64\Debug\kalkulator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\wikto\OneDrive\Pulpit\uczymy sie programowania\kalkulator\kalkulator\x64\Debug\kalkulator.Plansza.resources
+C:\Users\wikto\OneDrive\Pulpit\uczymy sie programowania\kalkulator\kalkulator\x64\Debug\kalkulator.vcxproj.GenerateResource.cache
+C:\Users\wikto\OneDrive\Pulpit\uczymy sie programowania\kalkulator\kalkulator\x64\Debug\kalkulator.exe
